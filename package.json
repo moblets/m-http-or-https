@@ -1,0 +1,26 @@
+{
+  "name": "m-http-or-https",
+  "version": "1.0.0",
+  "description": "A wrapper that choses http or https protocol according to the URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moblets/m-http-or-https.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "wrapper",
+    "moblets",
+    "Moblet"
+  ],
+  "author": "Eduardo Russo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moblets/m-http-or-https/issues"
+  },
+  "homepage": "https://github.com/moblets/m-http-or-https#readme"
+}
